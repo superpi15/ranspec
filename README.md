@@ -1,0 +1,2 @@
+# ranspec
+Random specification generator
